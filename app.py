@@ -89,7 +89,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 DATA_FOLDER = "C:/final_project_starter/data/sample_docs/"
-os.environ["GROQ_API_KEY"] = "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"
 
 @st.cache_resource(show_spinner="Loading and indexing documents...")
 def load_store():
