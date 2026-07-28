@@ -8,11 +8,14 @@ Run with:
 import os
 import random
 import streamlit as st
+from dotenv import load_dotenv
 
 from rag.ingest import load_documents, build_chunk_records
 from rag.embed_store import VectorStore
 from rag.generate import generate_answer
 
+load_dotenv()
+api_key = os.environ.get("GROQ_API_KEY")
 # Set page config FIRST (must be the first Streamlit command)
 st.set_page_config(
     page_title="B.I. Search",
