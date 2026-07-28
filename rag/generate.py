@@ -10,11 +10,12 @@ Two modes are provided:
 """
 
 import os
+from dotenv import load_dotenv
 from typing import List, Tuple
 
 from rag.ingest import Chunk
 
-
+load_dotenv()
 def extractive_answer(query: str, retrieved: List[Tuple[Chunk, float]]) -> str:
     """Generate a simple extractive answer from retrieved chunks."""
     if not retrieved:

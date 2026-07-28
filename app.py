@@ -8,11 +8,14 @@ Run with:
 import os
 import random
 import streamlit as st
+from dotenv import load_dotenv
 
 from rag.ingest import load_documents, build_chunk_records
 from rag.embed_store import VectorStore
 from rag.generate import generate_answer
 
+load_dotenv()
+api_key = os.environ.get("GROQ_API_KEY")
 # Set page config FIRST (must be the first Streamlit command)
 st.set_page_config(
     page_title="B.I. Search",
@@ -89,7 +92,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 DATA_FOLDER = "C:/final_project_starter/data/sample_docs/"
-os.environ["GROQ_API_KEY"] = "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"
 
 @st.cache_resource(show_spinner="Loading and indexing documents...")
 def load_store():
