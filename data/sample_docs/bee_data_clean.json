@@ -1,0 +1,920 @@
+[
+  {
+    "id": "bee_19711",
+    "species": "Apis andreniformis",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Apis andreniformis",
+      "Scientific name: Apis andreniformis",
+      "Description: Apis andreniformis, or the black dwarf honey bee, is a relatively rare species of honey bee whose native habitat is the tropical and subtropical regions of Southeast Asia. A. andreniformis was the fifth honey bee species to be described of the seven known species of Apis. Until recently, however, the actual identity of the species was poorly understood. It was not recognized as its own species, but was instead considered to be a part of the species Apis florea. Recent studies have highlighted notable differences between the bees and have thus separated them into distinct species.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "tax_id": "7464",
+      "common_name": "Apis andreniformis"
+    },
+    "common_name": "Apis andreniformis"
+  },
+  {
+    "id": "bee_17509",
+    "species": "Apis cerana",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: the eastern honey bee, Asiatic honey bee or Asian honey bee",
+      "Scientific name: Apis cerana",
+      "Description: Apis cerana is a species of honey bee native to southern, southeastern, and eastern Asia. This species is the sister species of Apis koschevnikovi and both are in the same subgenus as the western (European) honey bee, Apis mellifera. A. cerana is known to live sympatrically along with Apis koschevnikovi within the same geographic location.Apis cerana colonies are known for building nests consisting of multiple combs in cavities containing a small entrance, presumably for defense against invasion by individuals of another nest.The diet of this honey bee species consists mostly of pollen and nectar, or honey. Moreover, Apis cerana is known for its highly social behavior, reflective of its classification as a type of honey bee.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "tax_id": "7461",
+      "common_name": "the eastern honey bee, Asiatic honey bee or Asian honey bee"
+    },
+    "common_name": "the eastern honey bee, Asiatic honey bee or Asian honey bee"
+  },
+  {
+    "id": "bee_17510",
+    "species": "Apis dorsata",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: giant honey bee",
+      "Scientific name: Apis dorsata",
+      "Description: Apis dorsata is a honey bee of South and Southeast Asia, found mainly in forested areas such as the Terai of Nepal. They are typically around 17\u201320 mm (0.7\u20130.8 in) long. Nests are mainly built in exposed places far off the ground, like on tree limbs, under cliff overhangs, and sometimes on buildings. These social bees are known for their aggressive defense strategies and vicious behavior when disturbed. Though not domesticating it, indigenous peoples have traditionally used this species as a source of honey and beeswax, a practice known as honey hunting.",
+      "Tissue samples: Whole body without belly",
+      "Reference: Hasselmann M, Vekemans X, Pflugfelder J, et al. Evidence for convergent nucleotide evolution and high allelic turnover rates at the complementary sex determiner gene of Western and Asian honeybees.\u00a0Mol Biol Evol. 2008;25(4):696-708.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "tax_id": "7462",
+      "common_name": "giant honey bee"
+    },
+    "common_name": "giant honey bee"
+  },
+  {
+    "id": "bee_17511",
+    "species": "Apis florea",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: dwarf honey bee or red dwarf honey bee",
+      "Scientific name: Apis florea",
+      "Description: Apis florea is one of two species of small, wild honey bees of southern and southeastern Asia. It has a much wider distribution than its sister species, Apis andreniformis. First identified in the late 18th century, Apis florea is unique for its morphology, foraging behavior and defensive mechanisms like making a piping noise. Apis florea have open nests and small colonies, which makes them more susceptible to predation than cavity nesters with large numbers of defensive workers. These honey bees are important pollinators and therefore commodified in countries like Cambodia.",
+      "Tissue samples: antennae",
+      "Geographic locations: India: Bangalore",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "tax_id": "7463",
+      "common_name": "dwarf honey bee or red dwarf honey bee"
+    },
+    "common_name": "dwarf honey bee or red dwarf honey bee"
+  },
+  {
+    "id": "bee_17512",
+    "species": "Apis laboriosa",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Himalayan giant honey bee",
+      "Scientific name: Apis laboriosa",
+      "Description: Apis laboriosa is the world\u2019s largest honey bee; single adults can measure up to 3.0 cm (1.2 in) in length. Before 1980, Apis laboriosa was considered to be a subspecies of the widespread Apis dorsata, the giant honey bee, but in 1980 and for almost 20 years thereafter it was elevated to the rank of a separate species. It was classified once again as a subspecies of Apis dorsata by Engel in 1999,but was confirmed as a full species in 2020 on the basis of co-occurrence with Apis dorsata at many sites with no sign of interbreeding. It is highly adapted to its highland habitat in behavior.",
+      "Tissue samples: Whole body without belly",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "tax_id": "183418",
+      "common_name": "Himalayan giant honey bee"
+    },
+    "common_name": "Himalayan giant honey bee"
+  },
+  {
+    "id": "bee_17513",
+    "species": "Apis mellifera",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: western honey bee or European honey bee",
+      "Scientific name: Apis mellifera",
+      "Description: Apis mellifera is the most common of the 7\u201312 species of honey bees worldwide. The genus name Apis is Latin for bee, and mellifera is the Latin for honey-bearing, referring to the species production of honey.It was one of the first domesticated insects, and it is the primary species maintained by beekeepers to this day for both its honey production and pollination activities.",
+      "Tissue samples: Fat Body",
+      "Geographic locations: USA: Tucson, Arizona",
+      "Reference: Wallberg A, Bunikis I, Pettersson OV, et al. A hybrid de novo genome assembly of the honeybee, Apis mellifera, with chromosome-length scaffolds.\u00a0BMC Genomics. 2019;20(1):275.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "tax_id": "7460",
+      "common_name": "western honey bee or European honey bee"
+    },
+    "common_name": "western honey bee or European honey bee"
+  },
+  {
+    "id": "bee_17548",
+    "species": "Bombus bifarius",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: two-form bumblebee",
+      "Scientific name: Bombus bifarius",
+      "Description: Bombus bifarius is a species of eusocial bumblebee of the subgenus Pyrobombus. B. bifarius inhabits mountainous regions of western North America, primarily the states of Colorado and Utah. Its common name refers to a historical artifact, in that it was believed that this species had a color polymorphism, with a red-tailed nominate form and a black-tailed nearcticus form, present in the species.This polymorphism has recently been shown to belong instead to a cryptic sister species, Bombus vancouverensis, that occupies almost the entirety of the range of what was formerly classified as bifarius; true bifarius only has a red form, so it is not two-formed at all.",
+      "Tissue samples: muscle",
+      "Geographic locations: USA: Colorado, Routt County",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "103933",
+      "common_name": "two-form bumblebee"
+    },
+    "common_name": "two-form bumblebee"
+  },
+  {
+    "id": "bee_20301",
+    "species": "Bombus bimaculatus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: two-spotted bumble bee",
+      "Scientific name: Bombus bimaculatus",
+      "Description: The two-spotted bumble bee (Bombus bimaculatus) is a species of social bumble bee found in the eastern half of the United States and the adjacent south-eastern part of Canada. In older literature this bee is often referred to as Bremus bimaculatus, Bremus being a synonym for Bombus. The bee's common name comes from the two yellow spots on its abdomen. Unlike many of the other species of bee in the genus Bombus, B. bimaculatus is not on the decline, but instead is very stable. They are abundant p",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "309944",
+      "common_name": "two-spotted bumble bee"
+    },
+    "common_name": "two-spotted bumble bee"
+  },
+  {
+    "id": "bee_17550",
+    "species": "Bombus campestris",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus campestris",
+      "Scientific name: Bombus campestris",
+      "Description: Bombus campestris is a very common cuckoo bumblebee found in most of Europe.",
+      "Tissue samples: HEAD | THORAX",
+      "Geographic locations: United Kingdom",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "207624",
+      "common_name": "Bombus campestris"
+    },
+    "common_name": "Bombus campestris"
+  },
+  {
+    "id": "bee_17551",
+    "species": "Bombus confusus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus confusus",
+      "Scientific name: Bombus confusus",
+      "Description: Bombus confusus is a species of bumblebee found in Austria, Belgium, the Czech Republic, France, Germany, Hungary, Lithuania, Poland, Romania, Slovakia, Slovenia, Spain, and Switzerland.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Xinjiang",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "217217",
+      "common_name": "Bombus confusus"
+    },
+    "common_name": "Bombus confusus"
+  },
+  {
+    "id": "bee_17553",
+    "species": "Bombus cullumanus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Cullum's bumblebee or Cullum's humble-bee",
+      "Scientific name: Bombus cullumanus",
+      "Description: Bombus cullumanus is a species of bumblebee found in Europe and Asia.",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "2562068",
+      "common_name": "Cullum's bumblebee or Cullum's humble-bee"
+    },
+    "common_name": "Cullum's bumblebee or Cullum's humble-bee"
+  },
+  {
+    "id": "bee_18756",
+    "species": "Bombus dahlbomii",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus dahlbomii",
+      "Scientific name: Bombus dahlbomii",
+      "Description: Bombus dahlbomii, also known as the moscard\u00f3n, is a species of bumblebee endemic to southern South American temperate forests. B. dahlbomii is one of the largest bee species in the world, with matured queens growing up to 40\u00a0mm (1.6\u00a0in) long. Because of its size and furry appearance, the species has been described as \"flying mice\" colloquially, and \"a monstrous fluffy ginger beast\" by British ecologist David Goulson.B. dahlbomii is native to southern Chile and southern Argentina, including Patagonia. The decline of its populations started with the introduction of Bombus terrestris and B. ruderatus into Chile to serve as commercial pollinators. B. dahlbomii population decline can also be attributed to the pathogen spillover of the parasitic protozoan Apicystis bombi, which was co-introduced with B. terrestris.B. dahlbomii is an important insect in local ecosystems, such as the Maulino forest of central Chile. There, it is a major pollinator of native plants such as Lapageria rosea and Alstroemeria aurea, both of which serve important commercial purposes.The species was originally described in 1835 by the French entomologist F\u00e9lix \u00c9douard Gu\u00e9rin-M\u00e9neville.B. dahlbomii is predominantly red-orange in color. The thorax of the bee is completely red-orange while the abdomen is generally a lighter shade of orange with a small amount of lightening/discoloration towards the end. Like most bumblebees, the abdomen of the bee has a rounded tip. The head, wing and leg region of B. dahlbomii are distinctly black in color. B. dahlbomii has relatively short antennae and a distinct forewing and smaller hindwing that are usually tucked in above the main thorax area (they lie almost flat). Relatively long bristles cover almost the whole thorax and abdomen of B. dahlbomii, giving the bumblebee an extremely furry appearance. The leg and head regions are covered by shorter bristles than the thorax and abdomen. B. dahlbomii queens usually have relatively heavy body masses of around 0.5-1.5 grams and large head-to-tail lengths of up to 4\u00a0cm. These measurements make B. dahlbomii one of the largest bumblebees in the world and give it the nickname the \"flying mouse\".B. dahlbomii is the only native bumblebee species in southern South America. Its range extends from 30 degrees southwards to the southern tip of mainland South America. It is endemic to temperate forest regions in central/southern Patagonia. B. dahlbomii is distributed throughout Patagonia, where it coexists with two non-native species that belong to the same genus, Bombus terrestris and Bombus ruderatus. In its distribution in Chile and Argentina, including Patagonia, B. dahlbomii occupies forest environments that have both continuous and fragmented (scattered) distribution of plants, flowers and other resources. Individuals in these two environments have slightly different morphological and behavioral features. Although some reports cite B. dahlbomii outside of southern South America, they fail to substantiate their findings; when compared to other South American bumblebees, B. dahlbomii's range is relatively confined.Individual B. dahlbomii queens usually start colonies in the spring by first locating underground cavities, such as rodent burrows. Like many other species in the genus Bombus, the B. dahlbomii colony cycle begins with the production of the egg cell structure inside the underground cavity. This egg cell structure is constructed from a mixture of pollen and wax that the queen forages from the outside environment and brings to the nest site. Eventually, the queen lays her first brood of eggs in this egg cell structure. After a couple of months, in early summer or late spring, this initial brood produces the first B. dahlbomii workers that take over foraging responsibilities from the queen. Males and new queens are subsequently produced to allow the continuation of the colony cycle. The initial period during which the B. dahlbomii queen is alone without workers is referred to as the subsocial phase. The social phase starts when the initial eggs mature into workers that can begin basic foraging activities. Field studies indicate that B. dahlbomii nests can host populations of upwards of 100 workers.B. dahlbomii queens initiate colonies. Queens forage for nectar and pollen that are used to feed the initial brood of a new colony nest site.  The foraging activity of queens usually stops once the first brood develops into fully mature workers that can forage to feed immature siblings and alleviate the queen's need to perform such duties. After this happens, the queen assumes her main role of laying and incubating the brood eggs to further propagate the colony and produce new workers. Once workers begin foraging activities, B. dahlbomii queens seem to venture out of nests less frequently, but are still found in the outside of nests quite often.Scientific research indicates that most bees cannot see the color red, as their photoreceptors are more sensitive to short (UV, blue, green) rather than long wavelengths of light.  As a result, bees generally avoid red colored flowers, which are typically pollinated by birds. Although B. dahlbomii distinguishes colors in much the same way as other bees, it frequently visits certain species of red flowers, such as Crinodendron hookerianum, Lapageria rosea, Asteranthera ovata and Embothrium coccineum, that are common in South American temperate forests.  Such behavior sets B. dahlbomii apart from most other bee species that do not visit red colored flowers as frequently.  This somewhat peculiar behavior can be attributed to B. dahlbomii's ability to rely on a specific receptor system, the L-receptor system, to perform achromatic contrast and detect and distinguish the color red.  Research on the B. dahlbomii L-receptor receptor system has forced experts to partially change the ways they think about bumblebee light/color sensitivity.",
+      "Tissue samples: thoracic muscle",
+      "Geographic locations: Argentina:Puerto Blest, at the border between Rio Negro and Neuquen provinces",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "85658",
+      "common_name": "Bombus dahlbomii"
+    },
+    "common_name": "Bombus dahlbomii"
+  },
+  {
+    "id": "bee_17554",
+    "species": "Bombus difficillimus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus difficillimus",
+      "Scientific name: Bombus difficillimus",
+      "Description: Bombus difficillimus is a species of cuckoo bumblebee.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Qinghai",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "395520",
+      "common_name": "Bombus difficillimus"
+    },
+    "common_name": "Bombus difficillimus"
+  },
+  {
+    "id": "bee_19749",
+    "species": "Bombus flavifrons",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus flavifrons",
+      "Scientific name: Bombus flavifrons",
+      "Description: Bombus flavifrons, the yellow-fronted bumble bee or yellowhead bumblebee, is a species of bumblebee. It is native to North America, where it is distributed across much of Canada, Alaska, and the western contiguous United States. This is a robust bumblebee; the queen has a body length between 13 and 16 mm and a wingspan of 27 to 34 mm , the male is 11 to 12 mm in length with a wingspan of 25 to 26 mm , and the workers are 9 to 12 mm in length and 19 to 27 mm in wingspan.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "103934",
+      "common_name": "Bombus flavifrons"
+    },
+    "common_name": "Bombus flavifrons"
+  },
+  {
+    "id": "bee_20302",
+    "species": "Bombus griseocollis",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: brown-belted bumble bee",
+      "Scientific name: Bombus griseocollis",
+      "Description: Bombus griseocollis is a species of bumblebee known commonly as the brown-belted bumblebee. It is native to much of the United States except for the Southwest, and to the southernmost regions of several of the provinces of Canada.The queen is 2.1 to 2.3 centimeters long and about a centimeter wide at the abdomen. Its head and face are black with scattered yellow hairs. The thorax is coated in yellow hairs. The abdomen is yellow banded with black, with a black posterior and black ventral surface.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "207634",
+      "common_name": "brown-belted bumble bee"
+    },
+    "common_name": "brown-belted bumble bee"
+  },
+  {
+    "id": "bee_17555",
+    "species": "Bombus haemorrhoidalis",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus haemorrhoidalis",
+      "Scientific name: Bombus haemorrhoidalis",
+      "Description: Bombus haemorrhoidalis is a species in the family Apidae.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Yunan",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "207636",
+      "common_name": "Bombus haemorrhoidalis"
+    },
+    "common_name": "Bombus haemorrhoidalis"
+  },
+  {
+    "id": "bee_17556",
+    "species": "Bombus hortorum",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: garden bumblebee or small garden bumblebee",
+      "Scientific name: Bombus hortorum",
+      "Description: Bombus hortorum is a species of bumblebee found in most of Europe north to 70\u00b0N, as well as parts of Asia and New Zealand. It is distinguished from most other bumblebees by its long tongue used for feeding on pollen in deep-flowered plants. Accordingly, this bumblebee mainly visits flowers with deep corollae, such as deadnettles, ground ivy, vetches, clovers, comfrey, foxglove, and thistles.They have a good visual memory, which aids them in navigating the territory close to their habitat and seeking out food sources.",
+      "Tissue samples: ABDOMEN",
+      "Geographic locations: United Kingdom",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "85660",
+      "common_name": "garden bumblebee or small garden bumblebee"
+    },
+    "common_name": "garden bumblebee or small garden bumblebee"
+  },
+  {
+    "id": "bee_20303",
+    "species": "Bombus huntii",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: hunt's bumble bee",
+      "Scientific name: Bombus huntii",
+      "Description: Bombus huntii is a species of bumblebee. It is native to western North America, where it occurs in western Canada and the United States as far east as Manitoba and Minnesota, and in Mexico as far south as the Trans-Mexican Volcanic Belt. It is known commonly as the Hunt bumblebee or Hunt's bumblebee. This bee's whole genome has been recently sequenced as part of the Beenome100 project.This bee lives in desert scrub, prairies, and meadows. In the southern part of its range in Mexico it lives in p",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "85661",
+      "common_name": "hunt's bumble bee"
+    },
+    "common_name": "hunt's bumble bee"
+  },
+  {
+    "id": "bee_17557",
+    "species": "Bombus ignitus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus ignitus",
+      "Scientific name: Bombus ignitus",
+      "Description: Bombus ignitus is a species of bumblebee in the family Apidae. It is mainly distributed in Eastern Asia, commonly found in China, Japan, and Korea. It is used in China and Japan commercially as a pollinator. B. ignitus is a eusocial insect with a queen that is monandrous - mating with only one male in the late summer before hibernating until the following spring. It builds its nest out of a mass of pollen and lays its eggs after completion. Due to numerous conflicts between queens and fertile workers, some surviving queens are badly injured, described by some as living corpses.",
+      "Tissue samples: Venom gland, head, throax, Whole body",
+      "Geographic locations: South Korea:Gyeonggi-do, China: Hebei, China",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "130704",
+      "common_name": "Bombus ignitus"
+    },
+    "common_name": "Bombus ignitus"
+  },
+  {
+    "id": "bee_17558",
+    "species": "Bombus impatiens",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: common eastern bumble bee",
+      "Scientific name: Bombus impatiens",
+      "Description: Bombus impatiens is the most commonly encountered bumblebee across much of eastern North America. They can be found in the Eastern temperate forest region of the eastern United States, southern Canada, and the eastern Great Plains. Because of their great adaptability, they can live in country, suburbs, and even urban cities. This adaptability makes them a great pollinator species, leading to an increase in their commercial use by greenhouse industry. This increase consequently led to their farther spread outside their previous distribution range. They are considered one of the most important species of pollinator bees in North America",
+      "Tissue samples: abdominal fat body",
+      "Geographic locations: USA: California, Riverside",
+      "Reference: Sadd BM, Barribeau SM, Bloch G, et al. The genomes of two key bumblebee species with primitive eusocial organization.\u00a0Genome Biol. 2015;16(1):76.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "132113",
+      "common_name": "common eastern bumble bee"
+    },
+    "common_name": "common eastern bumble bee"
+  },
+  {
+    "id": "bee_19750",
+    "species": "Bombus jonellus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus jonellus",
+      "Scientific name: Bombus jonellus",
+      "Description: The heath humble-bee or small heath bumblebee, Bombus jonellus, is a species of bumblebee, widely distributed in Europe and northern Asia, as well as northern North America.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "85663",
+      "common_name": "Bombus jonellus"
+    },
+    "common_name": "Bombus jonellus"
+  },
+  {
+    "id": "bee_18453",
+    "species": "Bombus lapidarius",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus lapidarius",
+      "Scientific name: Bombus lapidarius",
+      "Description: Bombus lapidarius is a species of bumblebee in the subgenus Melanobombus. Commonly known as the red-tailed bumblebee, B. lapidarius can be found throughout much of Central Europe. Known for its distinctive black and red body, this social bee is important in pollination.The red-tailed bumblebee is a part of the order Hymenoptera, family Apidae, and the genus Bombus, which includes many species including Bombus terrestris , Bombus lucorum, and Bombus hypnorum.The red-tailed bumblebee is typically distinguished by its black body with red markings around the abdomen. Worker females and the queen look similar, though the queen is much larger than the worker females. Males typically have the red and black coloration with a yellow band around the abdomen and yellow markings on the face. Further, B. lapidarius tend to have a medium-sized proboscis, which is significant in that it allows the species to be a good pollinator. These bees do not typically form extensive or complex colonies. Nests usually only contain a few hundred bees at most, with an average colony consisting of about 100 to 200 worker bees.Bombus lapidarius is found throughout Europe, including Britain and Ireland, as well as parts of Greece, Germany, Sweden and Finland. The species has a fairly wide distribution, typically being found in temperate regions. B. lapidarius nests have been found in many different habitats, but the bees usually prefer open terrain to more heavily forested landscapes. They can fly over 1500 meters to better forage for food.Red-tailed bumblebees appear in the summer months of June, July, and August.[10] Colonies are initiated via the queen, where workers and males follow roles to keep the colony thriving. Though there is a hierarchy between the queen and the rest of the colony, there does not appear to be a hierarchy among the workers themselves.[11]Social bees, including Bombus lapidarius, are able to produce a great deal of heat due to the contraction of their thoracic flight muscles. They are able to use this heat to help warm and incubate their brood. This also allows them to help regulate the temperature of the nest generally.[12]Red-tailed bumblebee males utilise sexual pheromones to attract females. Males will fly around and mark spots with the pheromone compounds (Z)-9-hexadecenol and hexadecanal via their labial gland. These secretions are highly species-specific, and thus likely greatly reduce inter-species mating. B. lapidarius typically fly and secrete above the treetops, which are more affected by the wind and the sun. Therefore, this species often has to secrete more pheromone than other species to be effective.[13] These compounds have been found in trace amounts in the air around the areas that individuals have scent marked.[14] Different populations in diverse locations (specifically Southern Italy, the Balkans, and Central-Eastern Europe) have experienced genetic differentiation in pheromone composition.B. lapidarius pheromones are believed to be \u201cprecopulatory signals\u201d, or are used in an attempt to attract mates. These pheromones are often copied by cuckoo species.[15] Red-tailed bumblebee queens also appear to secrete pheromones. Functionally, these pheromones appear to inhibit ovarian development in worker bees, though the true function of the queens' pheromones are still unclear. It is known, however, that their chemical composition differs significantly from worker pheromones.[16]",
+      "Tissue samples: Antenna, Head, Thorax",
+      "Geographic locations: Turkey: Ankara",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "30192",
+      "common_name": "Bombus lapidarius"
+    },
+    "common_name": "Bombus lapidarius"
+  },
+  {
+    "id": "bee_19751",
+    "species": "Bombus lucorum",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus lucorum",
+      "Scientific name: Bombus lucorum",
+      "Description: Bombus lucorum, the white-tailed bumblebee, is a species of bumblebee, widespread and common throughout Europe. This name has been widely used for a range of nearly identical-looking or cryptic species of bumblebees. In 1983, Scholl and Obrecht even coined the term Bombus lucorum complex to explain the three taxa that cannot be easily differentiated from one another by their appearances. A recent review of all of these species worldwide has helped to clarify its distribution in Europe and northern Asia, almost to the Pacific. B. lucorum reaches the Barents Sea in the North. However, in southern Europe, although found in Greece it is an upland species with its distribution never quite reaching the Mediterranean. Compared to other bumblebee species, the individuals of B. lucorum have shorter tongues, and this characteristic enable them to rob nectar. The worker bee uses the horny sheath around its tongue to make a hole through the flower, reaching the nectar without entering the flower. Therefore, the worker bee does not come in contact with the pollen while getting the nectar.",
+      "Tissue samples: Thorax and abdomen",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "30193",
+      "common_name": "Bombus lucorum"
+    },
+    "common_name": "Bombus lucorum"
+  },
+  {
+    "id": "bee_19752",
+    "species": "Bombus monticola",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus monticola",
+      "Scientific name: Bombus monticola",
+      "Description: Bombus monticola, the bilberry bumblebee, blaeberry bumblebee or mountain bumblebee, is a species of bumblebee found in Europe.",
+      "Tissue samples: THORAX",
+      "Geographic locations: United Kingdom",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "103936",
+      "common_name": "Bombus monticola"
+    },
+    "common_name": "Bombus monticola"
+  },
+  {
+    "id": "bee_18757",
+    "species": "Bombus muscorum",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus muscorum",
+      "Scientific name: Bombus muscorum",
+      "Description: Apis muscorum Linnaeus, 1758Bombus muscorum, commonly known as the large carder bee or moss carder bee, is a species of bumblebee in the family Apidae. The species is found throughout Eurasia in fragmented populations, but is most commonly found in the British Isles. B. muscorum is a eusocial insect. The queen is monandrous, mating with only one male after leaving a mature nest to found its own. Males mate territorially and the species is susceptible to inbreeding and bottlenecks. The species builds its nests on or just under the ground in open grassland and forages very close to the nest. In recent years, populations have significantly declined due to loss of natural habitat. B. muscorum is currently listed as vulnerable in Europe by the European Red List of Bees.B. muscorum was one of the many insect species originally described in 1758 by Carl Linnaeus in the 10th edition of Systema Naturae. It was given the binomial name Apis muscorum. The species name muscorum is the genitive plural of the Latin m\u016bscus, meaning moss.[citation needed]B. muscorum is part of the order Hymenoptera, the third largest order of insects, which includes bees, wasps, ants, and sawflies. It is part of the subfamily Apinae, which contains the majority of species within the family Apidae. It is part of the tribe Bombini, which contains a single living genus Bombus, consisting entirely of bumblebees. Within Bombus, B. muscorum is part of the subgenus Thoracobombus, which includes closely relates species such Bombus pauloensis, Bombus dahlbomii, Bombus fervidus, Bombus morio, Bombus pensylvanicus, and Bombus transversalis. The species is further differentiated into at least seven different subspecies. These include B. muscorum sladeni and B. muscorum smithianu, found in the United Kingdom and differentiated on the basis of coat color. Certain forms of this variable taxon are considered separate species by some authors, including B. bannitus and B. pereziellus.B. muscorum is characterized by its oblong face and long tongue. The bristles of the species are ginger in color and cover the head, thorax, and abdomen. The abdomen, however, can have a darker, brownish coloring. In some subspecies, black bristles are intermixed with the ginger bristles that characterize the species. Some subspecies have an entirely black ventral side. The species is similar in appearance to the more common Bombus pascuorum. The queen has a body length 17\u201319\u00a0mm and a wingspan of 32\u201335\u00a0mm. Workers have a body length of 10\u201316\u00a0mm and a wingspan of 26\u201329\u00a0mm. Males have a body length of 13\u201315\u00a0mm and a wingspan of 26\u201329\u00a0mm.B. muscorum is widely distributed throughout Eurasia. Populations appear from Ireland in the West to Mongolia in the East. The species has been observed as far north as Scandinavia and Russia and has been spotted as far south as Crete. Populations, however, are fairly rare in all locations. Populations in the United Kingdom have declined sharply since the 1970s. Once widely distributed throughout the British Isles, distributions are now fragmented and predominantly coastal. Populations of other species, such as Bombus pascuorum, appear to be replacing B. muscorum in some parts of Northern Britain. The species is still relatively abundant in Northern Scotland. B. muscorum is classified as vulnerable in Europe by the IUCN.B. muscorum inhabits moors, grasslands, and salt marshes, where it builds its nest above ground. In the British Isles, B. muscorum nests in open landscapes near coastal areas in the lowlands. Populations are found in moorland and machair in the North. In the South, populations are found in coastal marshes, shingle, and calcareous grasslands. Nests have been found near open regions of fallowed land and man-made ditches. Colonies are small, numbering between 20 and 100 workers.B. muscorum is polylectic, the diet of the species depends on the surrounding area. The species has a strong preference for flowers of the families Fabaceae, Scrophulariaceae, Lamiaceae, and Asteraceae. Common food sources include clover, bird's-foot trefoil, vetches, and thistles. Flowers with long corollas are especially dependent on the long-tongued species.A number of new queens are produced in the last brood of the summer colony. These queens mate and then hibernate for an average of 9 months. From March to May, these queens emerge from hibernation to search for nesting sites. After a suitable site is found, the queen lays a small batch of diploid eggs. Once these eggs hatch, the queen tends to the larvae until they are grown and pupate. These pupa emerge as workers. From June onward, the queen will produce a steady supply of workers. From July to September, new males and queens are present and mate.",
+      "Tissue samples: THORAX",
+      "Geographic locations: United Kingdom",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "203813",
+      "common_name": "Bombus muscorum"
+    },
+    "common_name": "Bombus muscorum"
+  },
+  {
+    "id": "bee_17559",
+    "species": "Bombus opulentus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus opulentus",
+      "Scientific name: Bombus opulentus",
+      "Description: Bombus opulentus is a species in the family Apidae.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Fengning",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "2024865",
+      "common_name": "Bombus opulentus"
+    },
+    "common_name": "Bombus opulentus"
+  },
+  {
+    "id": "bee_17560",
+    "species": "Bombus pascuorum",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: common carder bee",
+      "Scientific name: Bombus pascuorum",
+      "Description: Bombus pascuorum is a species of bumblebee present in most of Europe in a wide variety of habitats such as meadows, pastures, waste ground, ditches and embankments, roads, and field margins, as well as gardens and parks in urban areas and forests and forest edges. It is similar in appearance to Bombus muscorum, and is replacing the species in Northern Britain.",
+      "Tissue samples: THORAX, Whole organism, Head and abdomen",
+      "Geographic locations: Belgium, United Kingdom: Scotland, United Kingdom",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "65598",
+      "common_name": "common carder bee"
+    },
+    "common_name": "common carder bee"
+  },
+  {
+    "id": "bee_17561",
+    "species": "Bombus picipes",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus picipes",
+      "Scientific name: Bombus picipes",
+      "Description: Bombus picipes is a species in the family Apidae.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Hebei",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "309970",
+      "common_name": "Bombus picipes"
+    },
+    "common_name": "Bombus picipes"
+  },
+  {
+    "id": "bee_17562",
+    "species": "Bombus polaris",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus polaris",
+      "Scientific name: Bombus polaris",
+      "Description: Bombus polaris is a common Arctic bumblebee species. B. polaris is one of two bumblebees that live above the Arctic Circle. The other is its social parasite Bombus hyperboreus. B. polaris is a social bee that can survive at near freezing temperatures. It has developed multiple adaptations to live in such cold temperatures. B. polaris has a thicker coat of hair than most bees, utilizes thermoregulation, and makes insulated nests.",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "130708",
+      "common_name": "Bombus polaris"
+    },
+    "common_name": "Bombus polaris"
+  },
+  {
+    "id": "bee_20305",
+    "species": "Bombus pratorum",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: early bumble bee",
+      "Scientific name: Bombus pratorum",
+      "Description: The early bumblebee or early-nesting bumblebee (Bombus pratorum) is a small bumblebee with a wide distribution in most of Europe and parts of Asia. It is very commonly found in the UK and emerges to begin its colony cycle as soon as February which is earlier than most other species, hence its common name. There is even some evidence that the early bumblebee may be able to go through two colony cycles in a year. Like other bumblebees, Bombus pratorum lives in colonies with queen and worker castes",
+      "Tissue samples: HEAD, HEAD | THORAX",
+      "Geographic locations: United Kingdom",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "30194",
+      "common_name": "early bumble bee"
+    },
+    "common_name": "early bumble bee"
+  },
+  {
+    "id": "bee_17563",
+    "species": "Bombus pyrosoma",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus pyrosoma",
+      "Scientific name: Bombus pyrosoma",
+      "Description: Bombus pyrosoma is a species in the family Apidae.",
+      "Tissue samples: Whole",
+      "Geographic locations: China: He Bei",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "396416",
+      "common_name": "Bombus pyrosoma"
+    },
+    "common_name": "Bombus pyrosoma"
+  },
+  {
+    "id": "bee_19753",
+    "species": "Bombus rufofasciatus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus rufofasciatus",
+      "Scientific name: Bombus rufofasciatus",
+      "Tissue samples: head, throax",
+      "Geographic locations: China",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "309971",
+      "common_name": "Bombus rufofasciatus"
+    },
+    "common_name": "Bombus rufofasciatus"
+  },
+  {
+    "id": "bee_17564",
+    "species": "Bombus sibiricus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus sibiricus",
+      "Scientific name: Bombus sibiricus",
+      "Description: Bombus sibiricus is a species in the family Apidae.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Gansu",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "421273",
+      "common_name": "Bombus sibiricus"
+    },
+    "common_name": "Bombus sibiricus"
+  },
+  {
+    "id": "bee_17565",
+    "species": "Bombus skorikovi",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus skorikovi",
+      "Scientific name: Bombus skorikovi",
+      "Description: Bombus skorikovi is a species of cuckoo bumblebee.",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "395565",
+      "common_name": "Bombus skorikovi"
+    },
+    "common_name": "Bombus skorikovi"
+  },
+  {
+    "id": "bee_18759",
+    "species": "Bombus sonorus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus sonorus",
+      "Scientific name: Bombus sonorus",
+      "Description: Bombus sonorus, commonly known as the Sonoran bumble bee, is a species of bumble bee in the family Apidae. It is found in Central America and western and southwestern North America. Considered uncommon, it is sometimes categorized as a subspecies of Bombus pensylvanicus.The thorax of this bumblebee is predominantly yellow and it has a long tongue. It can be confused with the yellow form of Bombus crotchii and with Bombus nevadensis. It likes to collect pollen from Gossypium, Viguiera, Helianthus, Linaria, Chrysothamnus, and Kallstroemia flowers. Bombus sonorus nests \"in marshy flats near the coast,\" usually at the base of plants. These bumblebees generally nest underground, often in old pocket gopher burrows.These two subspecies belong to the species Bombus sonorus:This bumblebee-related article is a stub. You can help Wikipedia by expanding it.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "203818",
+      "common_name": "Bombus sonorus"
+    },
+    "common_name": "Bombus sonorus"
+  },
+  {
+    "id": "bee_17566",
+    "species": "Bombus soroeensis",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: broken-belted bumblebee or Ilfracombe bumblebee",
+      "Scientific name: Bombus soroeensis",
+      "Description: Bombus soroeensis is a species of bumblebee present in most of Europe and parts of Asia.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Xinjiang",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "184059",
+      "common_name": "broken-belted bumblebee or Ilfracombe bumblebee"
+    },
+    "common_name": "broken-belted bumblebee or Ilfracombe bumblebee"
+  },
+  {
+    "id": "bee_17567",
+    "species": "Bombus superbus",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus superbus",
+      "Scientific name: Bombus superbus",
+      "Description: Bombus superbus is a species in the family Apidae.",
+      "Tissue samples: head, throax, Whole body",
+      "Geographic locations: China: Qinghai, China",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "1869276",
+      "common_name": "Bombus superbus"
+    },
+    "common_name": "Bombus superbus"
+  },
+  {
+    "id": "bee_20306",
+    "species": "Bombus sylvestris",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: forest cuckoo bumblebee",
+      "Scientific name: Bombus sylvestris",
+      "Description: Psithyrus sylvestris Le Peletier, 1833Bombus sylvestris, known as the forest cuckoo bumblebee or four-coloured cuckoo bee, is a species of cuckoo bumblebee, found in most of Europe and Russia. Its main hosts are Bombus pratorum, Bombus jonellus, and Bombus monticola. As a cuckoo bumblebee, Bombus sylvestris lays its eggs in another bumblebee's nest. This type of bee leaves their young to the workers of another nest for rearing, allowing cuckoo bumblebees to invest minimal energy and resources in",
+      "Tissue samples: ABDOMEN",
+      "Geographic locations: United Kingdom",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "30201",
+      "common_name": "forest cuckoo bumblebee"
+    },
+    "common_name": "forest cuckoo bumblebee"
+  },
+  {
+    "id": "bee_17568",
+    "species": "Bombus terrestris",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: buff-tailed bumblebee or large earth bumblebee",
+      "Scientific name: Bombus terrestris",
+      "Description: Bombus terrestris is one of the most numerous bumblebee species in Europe. It is one of the main species used in greenhouse pollination, and so can be found in many countries and areas where it is not native, such as Tasmania.Moreover, it is a eusocial insect with an overlap of generations, a division of labor, and cooperative brood care. The queen is monandrous which means she mates with only one male. B. terrestris workers learn flower colors and forage efficiently.",
+      "Reference: Sadd BM, Barribeau SM, Bloch G, et al. The genomes of two key bumblebee species with primitive eusocial organization.\u00a0Genome Biol. 2015;16(1):76.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "30195",
+      "common_name": "buff-tailed bumblebee or large earth bumblebee"
+    },
+    "common_name": "buff-tailed bumblebee or large earth bumblebee"
+  },
+  {
+    "id": "bee_17569",
+    "species": "Bombus turneri",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus turneri",
+      "Scientific name: Bombus turneri",
+      "Description: Bombus turneri is a species of cuckoo bumblebee.",
+      "Tissue samples: Whole body",
+      "Geographic locations: China: Anhui",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "686820",
+      "common_name": "Bombus turneri"
+    },
+    "common_name": "Bombus turneri"
+  },
+  {
+    "id": "bee_17570",
+    "species": "Bombus vancouverensis",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus vancouverensis",
+      "Scientific name: Bombus vancouverensis",
+      "Description: Bombus vancouverensis is a common species of eusocial bumblebee of the subgenus Pyrobombus. B. vancouverensis inhabits mountainous regions of western North America, where it has long been considered as a synonym of Bombus bifarius, and essentially all of the literature on bifarius refers instead to vancouverensis. B. vancouverensis has been identified as one of the two species of bumblebee observed to use pheromones in kin recognition. The other is the frigid bumblebee, Bombus frigidus.",
+      "Tissue samples: muscle",
+      "Geographic locations: USA: Oregon, Clackamas County, USA: Oregon, Jackson County",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "2705177",
+      "common_name": "Bombus vancouverensis"
+    },
+    "common_name": "Bombus vancouverensis"
+  },
+  {
+    "id": "bee_18760",
+    "species": "Bombus vestalis",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus vestalis",
+      "Scientific name: Bombus vestalis",
+      "Description: Bombus vestalis, the vestal cuckoo bumblebee, is a species of cuckoo bumblebee that lives in most of Europe, as well as North Africa and western Asia. It is a brood parasite that takes over the nests of other bee species. Its primary host is Bombus terrestris (the buff-tailed bumblebee). After its initial classification as Psithyrus vestalis, this bumblebee recently was reclassified into the genus Bombus, subgenus Psithyrus.The queen is a large bumblebee with a length up to 21\u00a0mm (0.83\u00a0in) and a wingspan of 37\u00a0mm (1.5\u00a0in); the male is considerably smaller (16\u00a0mm (0.63\u00a0in)). The bumblebee is predominantly black, with an orange collar. The third tergite has a border of yellow hairs, and the hairs on the fifth tergite are mostly white. The males are similar to the females, but smaller and with longer antennae.It is similar in appearance to another cuckoo bumblebee, Bombus bohemicus, but is distinguishable by either the length of the antennal segments or dissection and comparison of the genitalia. In Bombus vestalis, the fifth antennal segment will be the same length as the third and fourth together.A key characteristic of Bombus vestalis is the lack of corbiculae or a pollen basket on the hind legs of the bee. This is evolutionarily relevant because Bombus vestalis does not make its own nests or collect its own resources. With its larger body and poor foraging skills, the female Bombus vestalis are adapted to taking over nests of other species which have already been made and using the workers in these colonies to collect pollen.A brood of bees successfully raised by Bombus vestalis is mainly female. This is evolutionarily beneficial since the female is the sex which takes over host species and allows Bombus vestalis to reproduce. In fact, many of the male bees which are hatched in a nest that has been taken over by Bombus vestalis are a result of host workers who were able to successfully lay eggs despite the aggression of the invaders. Although they display haplodiploidy where males are haploid and females are diploid, morphologically, male and female Bombus vestalis are very similar and can be classified with a mosaic gynander. They have similar mandible and body structures, and it is likely that the differences are only derived from chromosomal alterations during development of the embryo.Bombus vestalis is part of the family Apidae. Until recently, it used to be identified as Psithryus vestalis. It was then renamed under the genus Bombus and classified as subgenus Psithyrus. The subgenus Psithyrus refers to a variety of cuckoo bumblebees who have no worker caste and reproduce by taking over host colonies and using workers of those colonies to rear their young. They can be confused with the bee Bombus bohemicus since both are found in similar regions and are parasitic in behavior. However, Bombus bohemicus is more intense in color and is a generalist parasite when choosing its host.The bumblebee is common from North Africa in the south to southern Sweden in the north, and from Ireland in the west to northern Iran in the east. It is common throughout England and Wales, but has only been sighted in Scotland since 2009. Using data from the National Biodiversity Network gateway, Bombus vestalis is most prominent in south-east England.In Ireland the bee was believed to be all but extinct in the 20th century with the last recorded sighting in 1926 in Carlow. However, in 2014 a population was rediscovered in the walled garden at Saint Enda's Park in Rathfarnham.Bombus vestalis is a cuckoo bumblebee; it does not construct any nest of its own, but usurps the nest of Bombus terrestris, kills the host queen, and forces the host workers to raise its offspring. The male bumblebees often congregate in gardens in the suburbs.",
+      "Tissue samples: ABDOMEN",
+      "Geographic locations: United Kingdom",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "30202",
+      "common_name": "Bombus vestalis"
+    },
+    "common_name": "Bombus vestalis"
+  },
+  {
+    "id": "bee_17571",
+    "species": "Bombus vosnesenskii",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: yellow-faced bumblebee",
+      "Scientific name: Bombus vosnesenskii",
+      "Description: Bombus vosnesenskii is a species of bumblebee native to the west coast of North America, where it is distributed from British Columbia to Baja California. It is the most abundant species of bee in this range, and can be found in both urban and agricultural areas. Additionally, B. vosnesenskii is utilized as an important pollinator in commercial agriculture, especially for greenhouse tomatoes. Though the species is not currently experiencing population decline, urbanization has affected its nesting densities, and early emergence of the B. vosnesenskii has been implicated in the increasing lack of bee diversity on the West coast.",
+      "Tissue samples: Thoracic Muscle",
+      "Geographic locations: USA: Oregon",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "207650",
+      "common_name": "yellow-faced bumblebee"
+    },
+    "common_name": "yellow-faced bumblebee"
+  },
+  {
+    "id": "bee_17572",
+    "species": "Bombus waltoni",
+    "category": "Bee Genome Data",
+    "facts": [
+      "Common name: Bombus waltoni",
+      "Scientific name: Bombus waltoni",
+      "Description: Bombus waltoni is a species in the family Apidae.",
+      "Tissue samples: Head and chest, head, throax, Whole body",
+      "Geographic locations: China: Gansu, China:Qinghai, China",
+      "Reference: Sun C, Huang J, Wang Y, et al. Genus-Wide Characterization of Bumblebee Genomes Provides Insights into Their Evolution and Variation in Ecological and Behavioral Traits [published correction appears in Mol Biol Evol. 2021 Jun 25;38(7):3031].\u00a0Mol Biol Evol. 2021;38(2):486-501.",
+      "Data source: NCBI"
+    ],
+    "metadata": {
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Bombus",
+      "tax_id": "395577",
+      "common_name": "Bombus waltoni"
+    },
+    "common_name": "Bombus waltoni"
+  }
+]
