@@ -29,13 +29,13 @@ ___
 | Interface      | Generated results are shown in the Streamlit interface underneath the query input box with sources underneath them.                                                               |
 
 ## Tech stack
-| Layer        | Stack                 | Why                                                                                                       |
-|:-------------|:----------------------|:----------------------------------------------------------------------------------------------------------|
-| Interface    | Streamlit             | Minimal interface, easy to customize. The theme just needs to be bee colored.                             |
-| Embeddings   | Sentence-transformers | Works locally and offline, no API key needed, no eating tokens. Able to embed chunks effectively.         |
-| Vector store | ChromaDB              | Good for local vector storage. Can hold lots of documents (53 bee-related documents)                      |
-| Generation   | Groq llama 3.3 70B    | Free and limited but very generous amount of API calls can be made in a day (120). The model is powerful. |
-| Language     | Python                | Has lots of packages that can help with building search systems.                                          |
+| Layer        | Stack                 | Why                                                                                                 |
+|:-------------|:----------------------|:----------------------------------------------------------------------------------------------------|
+| Interface    | Streamlit             | Minimal interface, easy to customize. The theme just needs to be bee colored.                       |
+| Embeddings   | Sentence-transformers | Works locally and offline, no API key needed, no eating tokens. Able to embed chunks effectively.   |
+| Vector store | ChromaDB              | Good for local vector storage. Can hold lots of documents (53 bee-related documents)                |
+| Generation   | Groq llama 3.3 70B    | Free and limited but very generous amount of API calls can be made in a day. The model is powerful. |
+| Language     | Python                | Has lots of packages that can help with building search systems.                                    |
 
 ___
 ## Project Structure
@@ -72,7 +72,7 @@ ___
 - **LLM limitation**: Groq can only query 120 queries in a day. The system will fallback into extractive mode if the tokens run out. This system must be used in consideration.
 ___
 ## Evalutation
-After testing 9 queries, these were the results:
+After testing 8 queries, these were the results:
 
 | Query                                                          | Top source                     | Similarity | Answer correct?                                                                                                        |
 |:---------------------------------------------------------------|:-------------------------------|:-----------|:-----------------------------------------------------------------------------------------------------------------------|
